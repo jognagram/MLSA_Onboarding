@@ -121,7 +121,8 @@ const Footer = (props) => {
 };
 
 Footer.defaultProps = {
-  name: "",
+  name: "Developped by Jordan Gnamien",
+  instagram: "jognagram",
 };
 
 Footer.propTypes = {
