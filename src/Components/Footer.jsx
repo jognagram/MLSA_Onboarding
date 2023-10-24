@@ -123,6 +123,9 @@ const Footer = (props) => {
 Footer.defaultProps = {
   name: "Developped by Jordan Gnamien",
   instagram: "jognagram",
+  twitter: "jognagram",
+  gitHub: "jognagram",
+  linkedIn: "jognagram",
 };
 
 Footer.propTypes = {
